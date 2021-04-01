@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = 'https://pfft-test-app.herokuapp.com'
+const hostname = '127.0.0.1'
 const port = process.env.PORT || 5000; 
 
 console.log("!!");
@@ -11,6 +11,6 @@ const server = http.createServer((req, res) => {
   res.end('Hello World !!');
 });
 
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
+server.listen(port, () => {
+  console.log(`Server running at ${port}`);
 });
