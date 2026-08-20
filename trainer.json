@@ -156,14 +156,14 @@
       "mon": 420
     },
     "wantaekchoi/pokerepo": {
-      "exp": 400,
+      "exp": 800,
       "caught": true,
       "species": 840,
       "stars": 1,
-      "commits": 1,
+      "commits": 2,
       "merges": 0,
       "alive": true,
-      "level": 5,
+      "level": 7,
       "mon": 840
     },
     "pagefaultgames/pokerogue": {
