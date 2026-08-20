@@ -40,5 +40,5 @@ My [merged pull requests](https://github.com/search?q=is%3Apr+author%3Awantaekch
 </tr>
 </table>
 
-<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi/wantaekchoi">Dex</a></sub>
+<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi">Dex</a></sub>
 <!-- POKEREPO:END -->
