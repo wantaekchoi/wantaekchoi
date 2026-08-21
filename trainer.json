@@ -79,14 +79,14 @@
       "mon": 333
     },
     "eGovFramework/egovframe-msa-edu": {
-      "exp": 0,
-      "caught": false,
+      "exp": 7200,
+      "caught": true,
       "species": 316,
       "stars": 164,
-      "commits": 0,
-      "merges": 0,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 1,
+      "level": 21,
       "mon": 316
     },
     "eGovFramework/egovframe-runtime": {
@@ -156,14 +156,14 @@
       "mon": 420
     },
     "wantaekchoi/pokerepo": {
-      "exp": 750,
+      "exp": 1000,
       "caught": true,
       "species": 837,
       "stars": 1,
-      "commits": 3,
+      "commits": 4,
       "merges": 0,
       "alive": true,
-      "level": 11,
+      "level": 12,
       "mon": 837
     },
     "pagefaultgames/pokerogue": {
@@ -408,7 +408,7 @@
     },
     "316": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "322": {
       "seen": true,
