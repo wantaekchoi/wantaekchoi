@@ -90,14 +90,14 @@
       "mon": 316
     },
     "eGovFramework/egovframe-runtime": {
-      "exp": 37200,
+      "exp": 123600,
       "caught": true,
       "species": 659,
       "stars": 49,
-      "commits": 12,
-      "merges": 10,
+      "commits": 36,
+      "merges": 34,
       "alive": true,
-      "level": 33,
+      "level": 49,
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
@@ -156,14 +156,14 @@
       "mon": 420
     },
     "wantaekchoi/pokerepo": {
-      "exp": 250,
+      "exp": 500,
       "caught": true,
       "species": 837,
       "stars": 1,
-      "commits": 1,
+      "commits": 2,
       "merges": 0,
       "alive": true,
-      "level": 7,
+      "level": 9,
       "mon": 837
     },
     "pagefaultgames/pokerogue": {
@@ -352,6 +352,17 @@
       "alive": true,
       "level": 17,
       "mon": 191
+    },
+    "eGovFramework/egovframe-mobile-device-api": {
+      "exp": 0,
+      "caught": false,
+      "species": 285,
+      "stars": 2,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 285
     }
   },
   "dex": {
@@ -382,6 +393,10 @@
     "272": {
       "seen": true,
       "caught": true
+    },
+    "285": {
+      "seen": true,
+      "caught": false
     },
     "290": {
       "seen": true,
@@ -505,7 +520,13 @@
     }
   },
   "trainer": {
-    "grassExp": 13600
+    "grassExp": 12600
   },
-  "updatedAt": "2026-08-20"
+  "updatedAt": "2026-08-21",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
 }
