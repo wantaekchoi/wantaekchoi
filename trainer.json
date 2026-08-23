@@ -167,14 +167,14 @@
       "mon": 837
     },
     "pagefaultgames/pokerogue": {
-      "exp": 10800,
+      "exp": 14400,
       "caught": true,
       "species": 744,
       "stars": 5814,
-      "commits": 3,
-      "merges": 3,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 22,
+      "level": 24,
       "mon": 744
     },
     "wantaekchoi/spawn-point": {
@@ -520,9 +520,9 @@
     }
   },
   "trainer": {
-    "grassExp": 12700
+    "grassExp": 12800
   },
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
