@@ -57,15 +57,15 @@
       "mon": 519
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 3600,
+      "exp": 18600,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 1,
-      "merges": 1,
+      "commits": 6,
+      "merges": 5,
       "alive": true,
-      "level": 16,
-      "mon": 165
+      "level": 28,
+      "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
       "exp": 3600,
@@ -134,14 +134,14 @@
       "mon": 325
     },
     "wantaekchoi/kbotop": {
-      "exp": 14250,
+      "exp": 17750,
       "caught": true,
       "species": 270,
       "stars": 4,
-      "commits": 57,
+      "commits": 71,
       "merges": 0,
       "alive": true,
-      "level": 26,
+      "level": 28,
       "mon": 272
     },
     "PokeAPI/pokekotlin": {
@@ -178,14 +178,14 @@
       "mon": 744
     },
     "wantaekchoi/spawn-point": {
-      "exp": 0,
+      "exp": 2750,
       "caught": true,
       "species": 290,
       "stars": 2,
-      "commits": 0,
+      "commits": 11,
       "merges": 0,
       "alive": true,
-      "level": 1,
+      "level": 11,
       "mon": 290
     },
     "spring-projects/spring-ai": {
@@ -363,6 +363,17 @@
       "alive": true,
       "level": 17,
       "mon": 285
+    },
+    "wantaekchoi/seoul-subway": {
+      "exp": 4750,
+      "caught": true,
+      "species": 582,
+      "stars": 0,
+      "commits": 19,
+      "merges": 0,
+      "alive": true,
+      "level": 15,
+      "mon": 582
     }
   },
   "dex": {
@@ -371,6 +382,10 @@
       "caught": true
     },
     "165": {
+      "seen": true,
+      "caught": true
+    },
+    "166": {
       "seen": true,
       "caught": true
     },
@@ -466,6 +481,10 @@
       "seen": true,
       "caught": true
     },
+    "582": {
+      "seen": true,
+      "caught": true
+    },
     "595": {
       "seen": true,
       "caught": false
@@ -520,7 +539,7 @@
     }
   },
   "trainer": {
-    "grassExp": 13050
+    "grassExp": 13500
   },
   "updatedAt": "2026-08-24",
   "exp": {
