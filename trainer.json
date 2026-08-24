@@ -2,14 +2,14 @@
   "login": "wantaekchoi",
   "repos": {
     "besu-eth/besu": {
-      "exp": 0,
-      "caught": false,
+      "exp": 10800,
+      "caught": true,
       "species": 453,
       "stars": 1826,
-      "commits": 0,
-      "merges": 0,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 1,
+      "level": 22,
       "mon": 453
     },
     "wantaekchoi/detect": {
@@ -156,11 +156,11 @@
       "mon": 420
     },
     "wantaekchoi/pokerepo": {
-      "exp": 1000,
+      "exp": 1250,
       "caught": true,
       "species": 837,
       "stars": 1,
-      "commits": 4,
+      "commits": 5,
       "merges": 0,
       "alive": true,
       "level": 12,
@@ -233,14 +233,14 @@
       "mon": 438
     },
     "wantaekchoi/wantaekchoi.github.io": {
-      "exp": 3250,
+      "exp": 3500,
       "caught": true,
       "species": 163,
       "stars": 1,
-      "commits": 13,
+      "commits": 14,
       "merges": 0,
       "alive": true,
-      "level": 14,
+      "level": 15,
       "mon": 163
     },
     "wantaekchoi/watch": {
@@ -354,14 +354,14 @@
       "mon": 191
     },
     "eGovFramework/egovframe-mobile-device-api": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 285,
       "stars": 2,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
+      "level": 17,
       "mon": 285
     }
   },
@@ -396,7 +396,7 @@
     },
     "285": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "290": {
       "seen": true,
@@ -448,7 +448,7 @@
     },
     "453": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "458": {
       "seen": true,
@@ -520,9 +520,9 @@
     }
   },
   "trainer": {
-    "grassExp": 12800
+    "grassExp": 13050
   },
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
