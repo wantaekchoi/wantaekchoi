@@ -46,15 +46,15 @@
       "mon": 840
     },
     "eGovFramework/egovframe-ai-rag": {
-      "exp": 3600,
+      "exp": 7200,
       "caught": true,
       "species": 519,
       "stars": 17,
-      "commits": 1,
-      "merges": 1,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 17,
-      "mon": 519
+      "level": 21,
+      "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
       "exp": 18600,
@@ -101,14 +101,14 @@
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 322,
       "stars": 98,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
+      "level": 15,
       "mon": 322
     },
     "eGovFramework/egovframe-vscode-initializr": {
@@ -369,14 +369,29 @@
       "caught": true,
       "species": 582,
       "stars": 0,
-      "commits": 19,
+      "commits": 12,
       "merges": 0,
       "alive": true,
       "level": 15,
       "mon": 582
+    },
+    "eGovFramework/egovframe-template-simple-react": {
+      "exp": 0,
+      "caught": false,
+      "species": 120,
+      "stars": 261,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 120
     }
   },
   "dex": {
+    "120": {
+      "seen": true,
+      "caught": false
+    },
     "163": {
       "seen": true,
       "caught": true
@@ -427,7 +442,7 @@
     },
     "322": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "325": {
       "seen": true,
@@ -478,6 +493,10 @@
       "caught": true
     },
     "519": {
+      "seen": true,
+      "caught": true
+    },
+    "520": {
       "seen": true,
       "caught": true
     },
@@ -539,9 +558,9 @@
     }
   },
   "trainer": {
-    "grassExp": 13500
+    "grassExp": 13750
   },
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-25",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
