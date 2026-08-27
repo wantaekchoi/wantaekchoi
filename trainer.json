@@ -57,14 +57,14 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 18600,
+      "exp": 52800,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 6,
-      "merges": 5,
+      "commits": 18,
+      "merges": 14,
       "alive": true,
-      "level": 28,
+      "level": 40,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -376,21 +376,21 @@
       "mon": 582
     },
     "eGovFramework/egovframe-template-simple-react": {
-      "exp": 0,
-      "caught": false,
+      "exp": 7200,
+      "caught": true,
       "species": 120,
       "stars": 261,
-      "commits": 0,
-      "merges": 0,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 1,
+      "level": 17,
       "mon": 120
     }
   },
   "dex": {
     "120": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "163": {
       "seen": true,
@@ -558,9 +558,9 @@
     }
   },
   "trainer": {
-    "grassExp": 13750
+    "grassExp": 14100
   },
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-08-27",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
