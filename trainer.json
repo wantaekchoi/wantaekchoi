@@ -57,14 +57,14 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 52800,
+      "exp": 249600,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 18,
-      "merges": 14,
+      "commits": 91,
+      "merges": 65,
       "alive": true,
-      "level": 40,
+      "level": 67,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -385,6 +385,28 @@
       "alive": true,
       "level": 17,
       "mon": 120
+    },
+    "nasa/earthdata-search": {
+      "exp": 0,
+      "caught": false,
+      "species": 353,
+      "stars": 823,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 353
+    },
+    "spring-projects/spring-data-jpa": {
+      "exp": 0,
+      "caught": false,
+      "species": 965,
+      "stars": 3273,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 965
     }
   },
   "dex": {
@@ -459,6 +481,10 @@
     "349": {
       "seen": true,
       "caught": true
+    },
+    "353": {
+      "seen": true,
+      "caught": false
     },
     "406": {
       "seen": true,
@@ -555,12 +581,16 @@
     "960": {
       "seen": true,
       "caught": true
+    },
+    "965": {
+      "seen": true,
+      "caught": false
     }
   },
   "trainer": {
-    "grassExp": 14100
+    "grassExp": 13000
   },
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
