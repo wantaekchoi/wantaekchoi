@@ -112,14 +112,14 @@
       "mon": 322
     },
     "eGovFramework/egovframe-vscode-initializr": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 299,
       "stars": 9,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
+      "level": 15,
       "mon": 299
     },
     "wantaekchoi/homebrew-tap": {
@@ -178,14 +178,14 @@
       "mon": 744
     },
     "wantaekchoi/spawn-point": {
-      "exp": 2750,
+      "exp": 5000,
       "caught": true,
       "species": 290,
       "stars": 2,
-      "commits": 11,
+      "commits": 20,
       "merges": 0,
       "alive": true,
-      "level": 11,
+      "level": 14,
       "mon": 290
     },
     "spring-projects/spring-ai": {
@@ -456,7 +456,7 @@
     },
     "299": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "316": {
       "seen": true,
@@ -588,9 +588,9 @@
     }
   },
   "trainer": {
-    "grassExp": 13000
+    "grassExp": 13500
   },
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-08-29",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
