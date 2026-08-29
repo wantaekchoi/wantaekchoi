@@ -42,6 +42,7 @@ My [merged pull requests](https://github.com/search?q=is%3Apr+author%3Awantaekch
 <td align="center" valign="bottom" width="23" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=595" title="Joltik in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/595.gif" width="64" height="54" alt="joltik"></a></td>
 <td align="center" valign="bottom" width="23" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=353" title="Shuppet in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/353.gif" width="43" height="64" alt="shuppet"></a></td>
 <td align="center" valign="bottom" width="23" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=965" title="Varoom in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png" width="64" height="64" alt="varoom"></a></td>
+<td align="center" valign="bottom" width="23" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=833" title="Chewtle in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png" width="64" height="64" alt="chewtle"></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=166"><b>Ledian</b></a><br><sub>Lv.67</sub><br><sub><a href="https://github.com/eGovFramework/egovframe-common-components" title="eGovFramework/egovframe-common-components">egovframe-c…</a></sub></td>
@@ -81,6 +82,7 @@ My [merged pull requests](https://github.com/search?q=is%3Apr+author%3Awantaekch
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=595"><b>Joltik</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/spring-projects/spring-ai" title="spring-projects/spring-ai">spring-ai</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=353"><b>Shuppet</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/nasa/earthdata-search" title="nasa/earthdata-search">earthdata-s…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=965"><b>Varoom</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/spring-projects/spring-data-jpa" title="spring-projects/spring-data-jpa">spring-data…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=833"><b>Chewtle</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/eGovFramework/egovframe-enterprise-business-template" title="eGovFramework/egovframe-enterprise-business-template">egovframe-e…</a></sub></td>
 </tr>
 </table>
 

@@ -407,6 +407,17 @@
       "alive": true,
       "level": 1,
       "mon": 965
+    },
+    "eGovFramework/egovframe-enterprise-business-template": {
+      "exp": 0,
+      "caught": false,
+      "species": 833,
+      "stars": 13,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 833
     }
   },
   "dex": {
@@ -565,6 +576,10 @@
     "744": {
       "seen": true,
       "caught": true
+    },
+    "833": {
+      "seen": true,
+      "caught": false
     },
     "837": {
       "seen": true,
