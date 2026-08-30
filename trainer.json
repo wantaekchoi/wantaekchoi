@@ -418,9 +418,39 @@
       "alive": true,
       "level": 1,
       "mon": 833
+    },
+    "eGovFramework/egovframe-portal-site-template": {
+      "exp": 0,
+      "caught": false,
+      "species": 23,
+      "stars": 13,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 23
+    },
+    "eGovFramework/egovframe-simple-homepage-template": {
+      "exp": 0,
+      "caught": false,
+      "species": 19,
+      "stars": 14,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 19
     }
   },
   "dex": {
+    "19": {
+      "seen": true,
+      "caught": false
+    },
+    "23": {
+      "seen": true,
+      "caught": false
+    },
     "120": {
       "seen": true,
       "caught": true
@@ -603,9 +633,9 @@
     }
   },
   "trainer": {
-    "grassExp": 13500
+    "grassExp": 13650
   },
-  "updatedAt": "2026-08-29",
+  "updatedAt": "2026-08-30",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
