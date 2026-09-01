@@ -57,14 +57,14 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 261000,
+      "exp": 301200,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 95,
-      "merges": 68,
+      "commits": 107,
+      "merges": 79,
       "alive": true,
-      "level": 68,
+      "level": 72,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -101,14 +101,14 @@
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
-      "exp": 3600,
+      "exp": 10800,
       "caught": true,
       "species": 322,
       "stars": 98,
-      "commits": 1,
-      "merges": 1,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 15,
+      "level": 22,
       "mon": 322
     },
     "eGovFramework/egovframe-vscode-initializr": {
@@ -464,15 +464,92 @@
       "mon": 273
     },
     "eu-digital-identity-wallet/eudi-srv-verifier-endpoint": {
-      "exp": 3600,
+      "exp": 14400,
       "caught": true,
       "species": 436,
       "stars": 61,
-      "commits": 1,
-      "merges": 1,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 15,
+      "level": 24,
       "mon": 436
+    },
+    "eGovFramework/awesome-egovframe": {
+      "exp": 0,
+      "caught": false,
+      "species": 540,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 540
+    },
+    "eGovFramework/egovframe-boot-sample-java-config": {
+      "exp": 0,
+      "caught": false,
+      "species": 287,
+      "stars": 9,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 287
+    },
+    "eGovFramework/egovframe-development": {
+      "exp": 0,
+      "caught": false,
+      "species": 835,
+      "stars": 30,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 835
+    },
+    "eGovFramework/egovframe-ex-cloud-data-stream": {
+      "exp": 0,
+      "caught": false,
+      "species": 29,
+      "stars": 1,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 29
+    },
+    "eGovFramework/egovframe-hands-on-guide": {
+      "exp": 0,
+      "caught": false,
+      "species": 401,
+      "stars": 1,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 401
+    },
+    "eGovFramework/egovframe-operating-environment-msa": {
+      "exp": 0,
+      "caught": false,
+      "species": 21,
+      "stars": 2,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 21
+    },
+    "eGovFramework/egovframe-web-sample": {
+      "exp": 0,
+      "caught": false,
+      "species": 543,
+      "stars": 8,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 543
     }
   },
   "dex": {
@@ -480,7 +557,15 @@
       "seen": true,
       "caught": false
     },
+    "21": {
+      "seen": true,
+      "caught": false
+    },
     "23": {
+      "seen": true,
+      "caught": false
+    },
+    "29": {
       "seen": true,
       "caught": false
     },
@@ -528,6 +613,10 @@
       "seen": true,
       "caught": true
     },
+    "287": {
+      "seen": true,
+      "caught": false
+    },
     "290": {
       "seen": true,
       "caught": true
@@ -561,6 +650,10 @@
       "caught": true
     },
     "353": {
+      "seen": true,
+      "caught": false
+    },
+    "401": {
       "seen": true,
       "caught": false
     },
@@ -616,6 +709,14 @@
       "seen": true,
       "caught": true
     },
+    "540": {
+      "seen": true,
+      "caught": false
+    },
+    "543": {
+      "seen": true,
+      "caught": false
+    },
     "582": {
       "seen": true,
       "caught": true
@@ -660,6 +761,10 @@
       "seen": true,
       "caught": false
     },
+    "835": {
+      "seen": true,
+      "caught": false
+    },
     "837": {
       "seen": true,
       "caught": true
@@ -682,7 +787,7 @@
     }
   },
   "trainer": {
-    "grassExp": 14200
+    "grassExp": 14400
   },
   "updatedAt": "2026-09-01",
   "exp": {
