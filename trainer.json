@@ -46,25 +46,25 @@
       "mon": 840
     },
     "eGovFramework/egovframe-ai-rag": {
-      "exp": 7200,
+      "exp": 10800,
       "caught": true,
       "species": 519,
       "stars": 17,
-      "commits": 2,
-      "merges": 2,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 21,
+      "level": 24,
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 249600,
+      "exp": 261000,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 91,
-      "merges": 65,
+      "commits": 95,
+      "merges": 68,
       "alive": true,
-      "level": 67,
+      "level": 68,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -440,6 +440,39 @@
       "alive": true,
       "level": 1,
       "mon": 19
+    },
+    "eGovFramework/egovframe-docs": {
+      "exp": 8400,
+      "caught": true,
+      "species": 504,
+      "stars": 29,
+      "commits": 4,
+      "merges": 2,
+      "alive": true,
+      "level": 20,
+      "mon": 505
+    },
+    "eu-digital-identity-wallet/eudi-lib-sdjwt-swift": {
+      "exp": 0,
+      "caught": false,
+      "species": 273,
+      "stars": 8,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 273
+    },
+    "eu-digital-identity-wallet/eudi-srv-verifier-endpoint": {
+      "exp": 3600,
+      "caught": true,
+      "species": 436,
+      "stars": 61,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 15,
+      "mon": 436
     }
   },
   "dex": {
@@ -486,6 +519,10 @@
     "272": {
       "seen": true,
       "caught": true
+    },
+    "273": {
+      "seen": true,
+      "caught": false
     },
     "285": {
       "seen": true,
@@ -539,6 +576,10 @@
       "seen": true,
       "caught": true
     },
+    "436": {
+      "seen": true,
+      "caught": true
+    },
     "438": {
       "seen": true,
       "caught": true
@@ -548,6 +589,14 @@
       "caught": true
     },
     "458": {
+      "seen": true,
+      "caught": true
+    },
+    "504": {
+      "seen": true,
+      "caught": true
+    },
+    "505": {
       "seen": true,
       "caught": true
     },
@@ -633,9 +682,9 @@
     }
   },
   "trainer": {
-    "grassExp": 13650
+    "grassExp": 14200
   },
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-09-01",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
