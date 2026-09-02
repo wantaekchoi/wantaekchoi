@@ -57,12 +57,12 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 301200,
+      "exp": 308400,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 107,
-      "merges": 79,
+      "commits": 109,
+      "merges": 81,
       "alive": true,
       "level": 72,
       "mon": 166
@@ -79,15 +79,15 @@
       "mon": 333
     },
     "eGovFramework/egovframe-msa-edu": {
-      "exp": 7200,
+      "exp": 54000,
       "caught": true,
       "species": 316,
       "stars": 164,
-      "commits": 2,
-      "merges": 2,
+      "commits": 15,
+      "merges": 15,
       "alive": true,
-      "level": 21,
-      "mon": 316
+      "level": 37,
+      "mon": 317
     },
     "eGovFramework/egovframe-runtime": {
       "exp": 123600,
@@ -453,15 +453,15 @@
       "mon": 505
     },
     "eu-digital-identity-wallet/eudi-lib-sdjwt-swift": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 273,
       "stars": 8,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
-      "mon": 273
+      "level": 17,
+      "mon": 274
     },
     "eu-digital-identity-wallet/eudi-srv-verifier-endpoint": {
       "exp": 14400,
@@ -607,7 +607,11 @@
     },
     "273": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "274": {
+      "seen": true,
+      "caught": true
     },
     "285": {
       "seen": true,
@@ -626,6 +630,10 @@
       "caught": true
     },
     "316": {
+      "seen": true,
+      "caught": true
+    },
+    "317": {
       "seen": true,
       "caught": true
     },
@@ -787,9 +795,9 @@
     }
   },
   "trainer": {
-    "grassExp": 14400
+    "grassExp": 14650
   },
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
