@@ -90,14 +90,14 @@
       "mon": 317
     },
     "eGovFramework/egovframe-runtime": {
-      "exp": 123600,
+      "exp": 156000,
       "caught": true,
       "species": 659,
       "stars": 49,
-      "commits": 36,
-      "merges": 34,
+      "commits": 45,
+      "merges": 43,
       "alive": true,
-      "level": 49,
+      "level": 53,
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
@@ -376,14 +376,14 @@
       "mon": 582
     },
     "eGovFramework/egovframe-template-simple-react": {
-      "exp": 7200,
+      "exp": 10800,
       "caught": true,
       "species": 120,
       "stars": 261,
-      "commits": 2,
-      "merges": 2,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 17,
+      "level": 20,
       "mon": 120
     },
     "nasa/earthdata-search": {
@@ -486,14 +486,14 @@
       "mon": 540
     },
     "eGovFramework/egovframe-boot-sample-java-config": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 287,
       "stars": 9,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
+      "level": 14,
       "mon": 287
     },
     "eGovFramework/egovframe-development": {
@@ -541,15 +541,15 @@
       "mon": 21
     },
     "eGovFramework/egovframe-web-sample": {
-      "exp": 0,
-      "caught": false,
+      "exp": 10800,
+      "caught": true,
       "species": 543,
       "stars": 8,
-      "commits": 0,
-      "merges": 0,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 1,
-      "mon": 543
+      "level": 24,
+      "mon": 544
     }
   },
   "dex": {
@@ -619,7 +619,7 @@
     },
     "287": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "290": {
       "seen": true,
@@ -723,7 +723,11 @@
     },
     "543": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "544": {
+      "seen": true,
+      "caught": true
     },
     "582": {
       "seen": true,
@@ -795,9 +799,9 @@
     }
   },
   "trainer": {
-    "grassExp": 14650
+    "grassExp": 14850
   },
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
