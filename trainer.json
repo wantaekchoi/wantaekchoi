@@ -442,14 +442,14 @@
       "mon": 19
     },
     "eGovFramework/egovframe-docs": {
-      "exp": 12600,
+      "exp": 16800,
       "caught": true,
       "species": 504,
       "stars": 29,
-      "commits": 6,
-      "merges": 3,
+      "commits": 8,
+      "merges": 4,
       "alive": true,
-      "level": 23,
+      "level": 25,
       "mon": 505
     },
     "eu-digital-identity-wallet/eudi-lib-sdjwt-swift": {
@@ -803,9 +803,9 @@
     }
   },
   "trainer": {
-    "grassExp": 15400
+    "grassExp": 15300
   },
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
