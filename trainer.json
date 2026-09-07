@@ -46,25 +46,25 @@
       "mon": 840
     },
     "eGovFramework/egovframe-ai-rag": {
-      "exp": 10800,
+      "exp": 14400,
       "caught": true,
       "species": 519,
       "stars": 17,
-      "commits": 3,
-      "merges": 3,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 24,
+      "level": 26,
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 308400,
+      "exp": 327600,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 109,
-      "merges": 81,
+      "commits": 116,
+      "merges": 86,
       "alive": true,
-      "level": 72,
+      "level": 74,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -79,14 +79,14 @@
       "mon": 333
     },
     "eGovFramework/egovframe-msa-edu": {
-      "exp": 54000,
+      "exp": 79200,
       "caught": true,
       "species": 316,
       "stars": 164,
-      "commits": 15,
-      "merges": 15,
+      "commits": 22,
+      "merges": 22,
       "alive": true,
-      "level": 37,
+      "level": 42,
       "mon": 317
     },
     "eGovFramework/egovframe-runtime": {
@@ -101,14 +101,14 @@
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
-      "exp": 14400,
+      "exp": 18000,
       "caught": true,
       "species": 322,
       "stars": 98,
-      "commits": 4,
-      "merges": 4,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 24,
+      "level": 26,
       "mon": 322
     },
     "eGovFramework/egovframe-vscode-initializr": {
@@ -420,36 +420,36 @@
       "mon": 833
     },
     "eGovFramework/egovframe-portal-site-template": {
-      "exp": 0,
-      "caught": false,
+      "exp": 36000,
+      "caught": true,
       "species": 23,
       "stars": 13,
-      "commits": 0,
-      "merges": 0,
+      "commits": 10,
+      "merges": 10,
       "alive": true,
-      "level": 1,
-      "mon": 23
+      "level": 33,
+      "mon": 24
     },
     "eGovFramework/egovframe-simple-homepage-template": {
-      "exp": 0,
-      "caught": false,
+      "exp": 7200,
+      "caught": true,
       "species": 19,
       "stars": 14,
-      "commits": 0,
-      "merges": 0,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 1,
+      "level": 19,
       "mon": 19
     },
     "eGovFramework/egovframe-docs": {
-      "exp": 16800,
+      "exp": 29400,
       "caught": true,
       "species": 504,
       "stars": 29,
-      "commits": 8,
-      "merges": 4,
+      "commits": 14,
+      "merges": 7,
       "alive": true,
-      "level": 25,
+      "level": 30,
       "mon": 505
     },
     "eu-digital-identity-wallet/eudi-lib-sdjwt-swift": {
@@ -530,15 +530,15 @@
       "mon": 401
     },
     "eGovFramework/egovframe-operating-environment-msa": {
-      "exp": 0,
-      "caught": false,
+      "exp": 18000,
+      "caught": true,
       "species": 21,
       "stars": 2,
-      "commits": 0,
-      "merges": 0,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 1,
-      "mon": 21
+      "level": 26,
+      "mon": 22
     },
     "eGovFramework/egovframe-web-sample": {
       "exp": 10800,
@@ -555,15 +555,23 @@
   "dex": {
     "19": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "21": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "22": {
+      "seen": true,
+      "caught": true
     },
     "23": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "24": {
+      "seen": true,
+      "caught": true
     },
     "29": {
       "seen": true,
@@ -803,9 +811,9 @@
     }
   },
   "trainer": {
-    "grassExp": 15300
+    "grassExp": 14950
   },
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
