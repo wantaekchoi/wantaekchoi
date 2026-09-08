@@ -57,25 +57,25 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 327600,
+      "exp": 342000,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 116,
-      "merges": 86,
+      "commits": 120,
+      "merges": 90,
       "alive": true,
-      "level": 74,
+      "level": 75,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
-      "exp": 7200,
+      "exp": 10800,
       "caught": true,
       "species": 333,
       "stars": 10,
-      "commits": 2,
-      "merges": 2,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 16,
+      "level": 18,
       "mon": 333
     },
     "eGovFramework/egovframe-msa-edu": {
@@ -354,14 +354,14 @@
       "mon": 191
     },
     "eGovFramework/egovframe-mobile-device-api": {
-      "exp": 3600,
+      "exp": 7200,
       "caught": true,
       "species": 285,
       "stars": 2,
-      "commits": 1,
-      "merges": 1,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 17,
+      "level": 21,
       "mon": 285
     },
     "wantaekchoi/seoul-subway": {
@@ -431,15 +431,15 @@
       "mon": 24
     },
     "eGovFramework/egovframe-simple-homepage-template": {
-      "exp": 7200,
+      "exp": 25200,
       "caught": true,
       "species": 19,
       "stars": 14,
-      "commits": 2,
-      "merges": 2,
+      "commits": 7,
+      "merges": 7,
       "alive": true,
-      "level": 19,
-      "mon": 19
+      "level": 29,
+      "mon": 20
     },
     "eGovFramework/egovframe-docs": {
       "exp": 29400,
@@ -497,14 +497,14 @@
       "mon": 287
     },
     "eGovFramework/egovframe-development": {
-      "exp": 14400,
+      "exp": 18000,
       "caught": true,
       "species": 835,
       "stars": 30,
-      "commits": 4,
-      "merges": 4,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 26,
+      "level": 28,
       "mon": 836
     },
     "eGovFramework/egovframe-ex-cloud-data-stream": {
@@ -554,6 +554,10 @@
   },
   "dex": {
     "19": {
+      "seen": true,
+      "caught": true
+    },
+    "20": {
       "seen": true,
       "caught": true
     },
@@ -811,9 +815,9 @@
     }
   },
   "trainer": {
-    "grassExp": 14950
+    "grassExp": 15050
   },
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-08",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
