@@ -68,14 +68,14 @@
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
-      "exp": 10800,
+      "exp": 14400,
       "caught": true,
       "species": 333,
       "stars": 10,
-      "commits": 3,
-      "merges": 3,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 18,
+      "level": 20,
       "mon": 333
     },
     "eGovFramework/egovframe-msa-edu": {
@@ -101,14 +101,14 @@
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
-      "exp": 18000,
+      "exp": 28800,
       "caught": true,
       "species": 322,
       "stars": 98,
-      "commits": 5,
-      "merges": 5,
+      "commits": 8,
+      "merges": 8,
       "alive": true,
-      "level": 26,
+      "level": 30,
       "mon": 322
     },
     "eGovFramework/egovframe-vscode-initializr": {
@@ -376,15 +376,15 @@
       "mon": 582
     },
     "eGovFramework/egovframe-template-simple-react": {
-      "exp": 14400,
+      "exp": 21600,
       "caught": true,
       "species": 120,
       "stars": 261,
-      "commits": 4,
-      "merges": 4,
+      "commits": 6,
+      "merges": 6,
       "alive": true,
-      "level": 22,
-      "mon": 120
+      "level": 25,
+      "mon": 121
     },
     "nasa/earthdata-search": {
       "exp": 0,
@@ -409,15 +409,15 @@
       "mon": 965
     },
     "eGovFramework/egovframe-enterprise-business-template": {
-      "exp": 0,
-      "caught": false,
+      "exp": 18000,
+      "caught": true,
       "species": 833,
       "stars": 13,
-      "commits": 0,
-      "merges": 0,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 1,
-      "mon": 833
+      "level": 26,
+      "mon": 834
     },
     "eGovFramework/egovframe-portal-site-template": {
       "exp": 36000,
@@ -486,15 +486,15 @@
       "mon": 540
     },
     "eGovFramework/egovframe-boot-sample-java-config": {
-      "exp": 3600,
+      "exp": 18000,
       "caught": true,
       "species": 287,
       "stars": 9,
-      "commits": 1,
-      "merges": 1,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 14,
-      "mon": 287
+      "level": 24,
+      "mon": 288
     },
     "eGovFramework/egovframe-development": {
       "exp": 18000,
@@ -508,15 +508,15 @@
       "mon": 836
     },
     "eGovFramework/egovframe-ex-cloud-data-stream": {
-      "exp": 0,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 29,
       "stars": 1,
-      "commits": 0,
-      "merges": 0,
+      "commits": 1,
+      "merges": 1,
       "alive": true,
-      "level": 1,
-      "mon": 29
+      "level": 17,
+      "mon": 30
     },
     "eGovFramework/egovframe-hands-on-guide": {
       "exp": 0,
@@ -541,14 +541,14 @@
       "mon": 22
     },
     "eGovFramework/egovframe-web-sample": {
-      "exp": 10800,
+      "exp": 18000,
       "caught": true,
       "species": 543,
       "stars": 8,
-      "commits": 3,
-      "merges": 3,
+      "commits": 5,
+      "merges": 5,
       "alive": true,
-      "level": 24,
+      "level": 28,
       "mon": 544
     }
   },
@@ -579,9 +579,17 @@
     },
     "29": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "30": {
+      "seen": true,
+      "caught": true
     },
     "120": {
+      "seen": true,
+      "caught": true
+    },
+    "121": {
       "seen": true,
       "caught": true
     },
@@ -630,6 +638,10 @@
       "caught": true
     },
     "287": {
+      "seen": true,
+      "caught": true
+    },
+    "288": {
       "seen": true,
       "caught": true
     },
@@ -783,7 +795,11 @@
     },
     "833": {
       "seen": true,
-      "caught": false
+      "caught": true
+    },
+    "834": {
+      "seen": true,
+      "caught": true
     },
     "835": {
       "seen": true,
@@ -815,9 +831,9 @@
     }
   },
   "trainer": {
-    "grassExp": 15050
+    "grassExp": 15150
   },
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
