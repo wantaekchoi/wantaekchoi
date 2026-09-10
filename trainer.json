@@ -90,14 +90,14 @@
       "mon": 317
     },
     "eGovFramework/egovframe-runtime": {
-      "exp": 156000,
+      "exp": 231600,
       "caught": true,
       "species": 659,
       "stars": 49,
-      "commits": 45,
-      "merges": 43,
+      "commits": 66,
+      "merges": 64,
       "alive": true,
-      "level": 53,
+      "level": 61,
       "mon": 660
     },
     "eGovFramework/egovframe-template-simple-backend": {
@@ -376,14 +376,14 @@
       "mon": 582
     },
     "eGovFramework/egovframe-template-simple-react": {
-      "exp": 21600,
+      "exp": 25200,
       "caught": true,
       "species": 120,
       "stars": 261,
-      "commits": 6,
-      "merges": 6,
+      "commits": 7,
+      "merges": 7,
       "alive": true,
-      "level": 25,
+      "level": 27,
       "mon": 121
     },
     "nasa/earthdata-search": {
@@ -442,14 +442,14 @@
       "mon": 20
     },
     "eGovFramework/egovframe-docs": {
-      "exp": 29400,
+      "exp": 100800,
       "caught": true,
       "species": 504,
       "stars": 29,
-      "commits": 14,
-      "merges": 7,
+      "commits": 48,
+      "merges": 24,
       "alive": true,
-      "level": 30,
+      "level": 46,
       "mon": 505
     },
     "eu-digital-identity-wallet/eudi-lib-sdjwt-swift": {
@@ -530,14 +530,14 @@
       "mon": 401
     },
     "eGovFramework/egovframe-operating-environment-msa": {
-      "exp": 18000,
+      "exp": 32400,
       "caught": true,
       "species": 21,
       "stars": 2,
-      "commits": 5,
-      "merges": 5,
+      "commits": 9,
+      "merges": 9,
       "alive": true,
-      "level": 26,
+      "level": 31,
       "mon": 22
     },
     "eGovFramework/egovframe-web-sample": {
@@ -831,9 +831,9 @@
     }
   },
   "trainer": {
-    "grassExp": 15150
+    "grassExp": 15800
   },
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
