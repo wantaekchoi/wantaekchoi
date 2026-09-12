@@ -442,12 +442,12 @@
       "mon": 20
     },
     "eGovFramework/egovframe-docs": {
-      "exp": 583800,
+      "exp": 592200,
       "caught": true,
       "species": 504,
       "stars": 29,
-      "commits": 278,
-      "merges": 139,
+      "commits": 282,
+      "merges": 141,
       "alive": true,
       "level": 83,
       "mon": 505
@@ -835,9 +835,9 @@
     }
   },
   "trainer": {
-    "grassExp": 18600
+    "grassExp": 18700
   },
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
