@@ -57,14 +57,14 @@
       "mon": 520
     },
     "eGovFramework/egovframe-common-components": {
-      "exp": 414000,
+      "exp": 432000,
       "caught": true,
       "species": 165,
       "stars": 76,
-      "commits": 140,
-      "merges": 110,
+      "commits": 145,
+      "merges": 115,
       "alive": true,
-      "level": 80,
+      "level": 81,
       "mon": 166
     },
     "eGovFramework/egovframe-msa-common-components": {
@@ -841,7 +841,7 @@
   "trainer": {
     "grassExp": 18450
   },
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-16",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
