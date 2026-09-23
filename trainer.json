@@ -35,14 +35,14 @@
       "mon": 328
     },
     "1EdTech/digital-credentials-public-validator": {
-      "exp": 10800,
+      "exp": 14400,
       "caught": true,
       "species": 840,
       "stars": 17,
-      "commits": 3,
-      "merges": 3,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 18,
+      "level": 20,
       "mon": 840
     },
     "eGovFramework/egovframe-ai-rag": {
@@ -849,7 +849,7 @@
   "trainer": {
     "grassExp": 18950
   },
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
