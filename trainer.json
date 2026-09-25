@@ -189,14 +189,14 @@
       "mon": 290
     },
     "spring-projects/spring-ai": {
-      "exp": 0,
+      "exp": 600,
       "caught": false,
       "species": 595,
       "stars": 9325,
-      "commits": 0,
+      "commits": 1,
       "merges": 0,
       "alive": true,
-      "level": 1,
+      "level": 8,
       "mon": 595
     },
     "spring-projects/spring-boot": {
@@ -847,9 +847,9 @@
     }
   },
   "trainer": {
-    "grassExp": 19150
+    "grassExp": 19250
   },
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
