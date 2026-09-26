@@ -156,11 +156,11 @@
       "mon": 420
     },
     "wantaekchoi/pokerepo": {
-      "exp": 1750,
+      "exp": 2000,
       "caught": true,
       "species": 837,
       "stars": 1,
-      "commits": 7,
+      "commits": 8,
       "merges": 0,
       "alive": true,
       "level": 14,
@@ -190,7 +190,7 @@
     },
     "spring-projects/spring-ai": {
       "exp": 600,
-      "caught": false,
+      "caught": true,
       "species": 595,
       "stars": 9325,
       "commits": 1,
@@ -398,14 +398,14 @@
       "mon": 353
     },
     "spring-projects/spring-data-jpa": {
-      "exp": 600,
-      "caught": false,
+      "exp": 3600,
+      "caught": true,
       "species": 965,
       "stars": 3273,
       "commits": 1,
-      "merges": 0,
+      "merges": 1,
       "alive": true,
-      "level": 8,
+      "level": 15,
       "mon": 965
     },
     "eGovFramework/egovframe-enterprise-business-template": {
@@ -550,6 +550,17 @@
       "alive": true,
       "level": 28,
       "mon": 544
+    },
+    "MyEtherWallet/MyEtherWallet": {
+      "exp": 1200,
+      "caught": true,
+      "species": 529,
+      "stars": 1587,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 10,
+      "mon": 529
     }
   },
   "dex": {
@@ -757,6 +768,10 @@
       "seen": true,
       "caught": true
     },
+    "529": {
+      "seen": true,
+      "caught": true
+    },
     "540": {
       "seen": true,
       "caught": true
@@ -775,7 +790,7 @@
     },
     "595": {
       "seen": true,
-      "caught": false
+      "caught": true
     },
     "659": {
       "seen": true,
@@ -843,13 +858,13 @@
     },
     "965": {
       "seen": true,
-      "caught": false
+      "caught": true
     }
   },
   "trainer": {
-    "grassExp": 19250
+    "grassExp": 19350
   },
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
