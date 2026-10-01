@@ -108,7 +108,7 @@ My [merged pull requests](https://github.com/search?q=is%3Apr+author%3Awantaekch
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=529"><b>Drilbur</b></a><br><sub>Lv.10</sub><br><sub><a href="https://github.com/MyEtherWallet/MyEtherWallet" title="MyEtherWallet/MyEtherWallet">MyEtherWall…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=595"><b>Joltik</b></a><br><sub>Lv.8</sub><br><sub><a href="https://github.com/spring-projects/spring-ai" title="spring-projects/spring-ai">spring-ai</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=325"><b>Spoink</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/wantaekchoi/homebrew-tap" title="wantaekchoi/homebrew-tap">homebrew-tap</a></sub></td>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=353"><b>Shuppet</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/nasa/earthdata-search" title="nasa/earthdata-search">earthdata-s…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=wantaekchoi&m=353"><b>Shuppet</b></a><br><sub>Lv.1 · parked</sub><br><sub><a href="https://github.com/nasa/earthdata-search" title="nasa/earthdata-search">earthdata-s…</a></sub></td>
 </tr>
 </table>
 
