@@ -2,14 +2,14 @@
   "login": "wantaekchoi",
   "repos": {
     "besu-eth/besu": {
-      "exp": 10800,
+      "exp": 14400,
       "caught": true,
       "species": 453,
       "stars": 1826,
-      "commits": 3,
-      "merges": 3,
+      "commits": 4,
+      "merges": 4,
       "alive": true,
-      "level": 22,
+      "level": 24,
       "mon": 453
     },
     "wantaekchoi/detect": {
@@ -862,9 +862,9 @@
     }
   },
   "trainer": {
-    "grassExp": 20350
+    "grassExp": 20550
   },
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
