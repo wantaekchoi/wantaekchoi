@@ -398,14 +398,14 @@
       "mon": 353
     },
     "spring-projects/spring-data-jpa": {
-      "exp": 3600,
+      "exp": 7200,
       "caught": true,
       "species": 965,
       "stars": 3273,
-      "commits": 1,
-      "merges": 1,
+      "commits": 2,
+      "merges": 2,
       "alive": true,
-      "level": 15,
+      "level": 19,
       "mon": 965
     },
     "eGovFramework/egovframe-enterprise-business-template": {
@@ -862,9 +862,9 @@
     }
   },
   "trainer": {
-    "grassExp": 21300
+    "grassExp": 21400
   },
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
