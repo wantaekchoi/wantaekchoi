@@ -563,14 +563,14 @@
       "mon": 529
     },
     "wantaekchoi/scan-walk": {
-      "exp": 750,
+      "exp": 5750,
       "caught": true,
       "species": 509,
       "stars": 0,
-      "commits": 3,
+      "commits": 23,
       "merges": 0,
       "alive": true,
-      "level": 9,
+      "level": 17,
       "mon": 509
     }
   },
@@ -877,9 +877,9 @@
     }
   },
   "trainer": {
-    "grassExp": 21600
+    "grassExp": 21850
   },
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-18",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
