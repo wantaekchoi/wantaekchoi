@@ -2,14 +2,14 @@
   "login": "wantaekchoi",
   "repos": {
     "besu-eth/besu": {
-      "exp": 25200,
+      "exp": 32400,
       "caught": true,
       "species": 453,
       "stars": 1826,
-      "commits": 7,
-      "merges": 7,
+      "commits": 9,
+      "merges": 9,
       "alive": true,
-      "level": 29,
+      "level": 31,
       "mon": 453
     },
     "wantaekchoi/detect": {
@@ -572,6 +572,83 @@
       "alive": true,
       "level": 17,
       "mon": 509
+    },
+    "flow-php/flow": {
+      "exp": 3600,
+      "caught": true,
+      "species": 557,
+      "stars": 869,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 15,
+      "mon": 557
+    },
+    "veelkoov/fuzzrake": {
+      "exp": 3600,
+      "caught": true,
+      "species": 167,
+      "stars": 11,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 16,
+      "mon": 167
+    },
+    "eftechcombr/glpi": {
+      "exp": 0,
+      "caught": false,
+      "species": 859,
+      "stars": 32,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 859
+    },
+    "seeschloss/jus": {
+      "exp": 3600,
+      "caught": true,
+      "species": 524,
+      "stars": 15,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 17,
+      "mon": 524
+    },
+    "opencats/OpenCATS": {
+      "exp": 0,
+      "caught": false,
+      "species": 546,
+      "stars": 760,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 546
+    },
+    "openml/OpenML": {
+      "exp": 0,
+      "caught": false,
+      "species": 179,
+      "stars": 757,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 179
+    },
+    "PHProxy/phproxy": {
+      "exp": 0,
+      "caught": false,
+      "species": 456,
+      "stars": 138,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 456
     }
   },
   "dex": {
@@ -630,6 +707,14 @@
     "166": {
       "seen": true,
       "caught": true
+    },
+    "167": {
+      "seen": true,
+      "caught": true
+    },
+    "179": {
+      "seen": true,
+      "caught": false
     },
     "191": {
       "seen": true,
@@ -751,6 +836,10 @@
       "seen": true,
       "caught": true
     },
+    "456": {
+      "seen": true,
+      "caught": false
+    },
     "458": {
       "seen": true,
       "caught": true
@@ -783,6 +872,10 @@
       "seen": true,
       "caught": true
     },
+    "524": {
+      "seen": true,
+      "caught": true
+    },
     "529": {
       "seen": true,
       "caught": true
@@ -796,6 +889,14 @@
       "caught": true
     },
     "544": {
+      "seen": true,
+      "caught": true
+    },
+    "546": {
+      "seen": true,
+      "caught": false
+    },
+    "557": {
       "seen": true,
       "caught": true
     },
@@ -863,6 +964,10 @@
       "seen": true,
       "caught": true
     },
+    "859": {
+      "seen": true,
+      "caught": false
+    },
     "919": {
       "seen": true,
       "caught": true
@@ -877,9 +982,9 @@
     }
   },
   "trainer": {
-    "grassExp": 22050
+    "grassExp": 22150
   },
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
