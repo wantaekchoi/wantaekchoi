@@ -2,14 +2,14 @@
   "login": "wantaekchoi",
   "repos": {
     "besu-eth/besu": {
-      "exp": 32400,
+      "exp": 36000,
       "caught": true,
       "species": 453,
       "stars": 1826,
-      "commits": 9,
-      "merges": 9,
+      "commits": 10,
+      "merges": 10,
       "alive": true,
-      "level": 31,
+      "level": 33,
       "mon": 453
     },
     "wantaekchoi/detect": {
@@ -624,7 +624,7 @@
       "stars": 760,
       "commits": 0,
       "merges": 0,
-      "alive": true,
+      "alive": false,
       "level": 1,
       "mon": 546
     },
@@ -635,7 +635,7 @@
       "stars": 757,
       "commits": 0,
       "merges": 0,
-      "alive": true,
+      "alive": false,
       "level": 1,
       "mon": 179
     },
@@ -660,6 +660,72 @@
       "alive": true,
       "level": 6,
       "mon": 10
+    },
+    "dittofeed/dittofeed": {
+      "exp": 0,
+      "caught": false,
+      "species": 532,
+      "stars": 3022,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 532
+    },
+    "kurrier-org/kurrier": {
+      "exp": 0,
+      "caught": false,
+      "species": 878,
+      "stars": 1063,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 878
+    },
+    "onecli/onecli": {
+      "exp": 0,
+      "caught": false,
+      "species": 759,
+      "stars": 3588,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 759
+    },
+    "truecourse-ai/truecourse": {
+      "exp": 0,
+      "caught": false,
+      "species": 177,
+      "stars": 538,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 177
+    },
+    "l2beat/l2beat": {
+      "exp": 3600,
+      "caught": true,
+      "species": 513,
+      "stars": 659,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 15,
+      "mon": 513
+    },
+    "padloc/padloc": {
+      "exp": 3600,
+      "caught": true,
+      "species": 66,
+      "stars": 2936,
+      "commits": 1,
+      "merges": 1,
+      "alive": true,
+      "level": 17,
+      "mon": 66
     }
   },
   "dex": {
@@ -703,6 +769,10 @@
       "seen": true,
       "caught": true
     },
+    "66": {
+      "seen": true,
+      "caught": true
+    },
     "120": {
       "seen": true,
       "caught": true
@@ -726,6 +796,10 @@
     "167": {
       "seen": true,
       "caught": true
+    },
+    "177": {
+      "seen": true,
+      "caught": false
     },
     "179": {
       "seen": true,
@@ -879,6 +953,10 @@
       "seen": true,
       "caught": true
     },
+    "513": {
+      "seen": true,
+      "caught": true
+    },
     "519": {
       "seen": true,
       "caught": true
@@ -894,6 +972,10 @@
     "529": {
       "seen": true,
       "caught": true
+    },
+    "532": {
+      "seen": true,
+      "caught": false
     },
     "540": {
       "seen": true,
@@ -955,6 +1037,10 @@
       "seen": true,
       "caught": true
     },
+    "759": {
+      "seen": true,
+      "caught": false
+    },
     "833": {
       "seen": true,
       "caught": true
@@ -983,6 +1069,10 @@
       "seen": true,
       "caught": true
     },
+    "878": {
+      "seen": true,
+      "caught": false
+    },
     "919": {
       "seen": true,
       "caught": true
@@ -997,9 +1087,9 @@
     }
   },
   "trainer": {
-    "grassExp": 22250
+    "grassExp": 22500
   },
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
