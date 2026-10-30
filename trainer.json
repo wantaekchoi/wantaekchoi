@@ -2,14 +2,14 @@
   "login": "wantaekchoi",
   "repos": {
     "besu-eth/besu": {
-      "exp": 36000,
+      "exp": 43200,
       "caught": true,
       "species": 453,
       "stars": 1826,
-      "commits": 10,
-      "merges": 10,
+      "commits": 12,
+      "merges": 12,
       "alive": true,
-      "level": 33,
+      "level": 35,
       "mon": 453
     },
     "wantaekchoi/detect": {
@@ -255,14 +255,14 @@
       "mon": 507
     },
     "openstreetmap/iD": {
-      "exp": 7200,
+      "exp": 10800,
       "caught": true,
       "species": 919,
       "stars": 3859,
-      "commits": 2,
-      "merges": 2,
+      "commits": 3,
+      "merges": 3,
       "alive": true,
-      "level": 19,
+      "level": 22,
       "mon": 919
     },
     "PokeAPI/pokedex-promise-v2": {
@@ -1087,9 +1087,9 @@
     }
   },
   "trainer": {
-    "grassExp": 23050
+    "grassExp": 23150
   },
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
