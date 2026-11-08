@@ -726,6 +726,17 @@
       "alive": true,
       "level": 17,
       "mon": 66
+    },
+    "anthropics/FlashProve": {
+      "exp": 0,
+      "caught": false,
+      "species": 58,
+      "stars": 957,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 58
     }
   },
   "dex": {
@@ -768,6 +779,10 @@
     "31": {
       "seen": true,
       "caught": true
+    },
+    "58": {
+      "seen": true,
+      "caught": false
     },
     "66": {
       "seen": true,
@@ -1087,9 +1102,9 @@
     }
   },
   "trainer": {
-    "grassExp": 24650
+    "grassExp": 24700
   },
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
